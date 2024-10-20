@@ -1,0 +1,17 @@
+{
+    "name": "TestyNFT",
+    "description": "This is an NFT on Solana",
+    "image": "https://github.com/sense112/offchain-metadata/blob/935c7bbc6c33a731b2cf82c25d496c1cfa0bfcf1/image.png?raw=true",
+    "external_url": "https://example.com/my-nft.json",
+    "attributes": [
+      {
+        "trait_type": "Hands",
+        "value": "HandsV1"
+      },
+      {
+        "trait_type": "Feet",
+        "value": "FeetV1"
+      }
+    ]
+  }
+  
