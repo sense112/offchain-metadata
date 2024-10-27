@@ -1,7 +1,7 @@
 {
     "name": "Testy NFT 2",
     "description": "This is an NFT 2 on Solana",
-    "image": "https://github.com/sense112/offchain-metadata/blob/main/nft-image.png?raw=true",
+    "image": "https://github.com/sense112/offchain-metadata/blob/main/nft2.png?raw=true",
     "external_url": "https://example.com/my-nft.json",
     "attributes": [
       {
